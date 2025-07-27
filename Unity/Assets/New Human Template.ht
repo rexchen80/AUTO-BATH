@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1105 &110500000
+HumanTemplate:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Human Template
+  m_BoneTemplate:
+    Chest: B-chest
+    Head: B-head
+    Hips: B-hips
+    Jaw: B-jaw
+    Left Index Distal: B-indexFinger03.L
+    Left Index Intermediate: B-indexFinger02.L
+    Left Index Proximal: B-indexFinger01.L
+    Left Little Distal: B-pinky03.L
+    Left Little Intermediate: B-pinky02.L
+    Left Little Proximal: B-pinky01.L
+    Left Middle Distal: B-middleFinger03.L
+    Left Middle Intermediate: B-middleFinger02.L
+    Left Middle Proximal: B-middleFinger01.L
+    Left Ring Distal: B-ringFinger03.L
+    Left Ring Intermediate: B-ringFinger02.L
+    Left Ring Proximal: B-ringFinger01.L
+    Left Thumb Distal: B-thumb03.L
+    Left Thumb Intermediate: B-thumb02.L
+    Left Thumb Proximal: B-thumb01.L
+    LeftFoot: B-foot.L
+    LeftHand: B-hand.L
+    LeftLowerArm: B-forearm.L
+    LeftLowerLeg: B-shin.L
+    LeftShoulder: B-shoulder.L
+    LeftToes: B-toe.L
+    LeftUpperArm: B-upperArm.L
+    LeftUpperLeg: B-thigh.L
+    Neck: B-neck
+    Right Index Distal: B-indexFinger03.R
+    Right Index Intermediate: B-indexFinger02.R
+    Right Index Proximal: B-indexFinger01.R
+    Right Little Distal: B-pinky03.R
+    Right Little Intermediate: B-pinky02.R
+    Right Little Proximal: B-pinky01.R
+    Right Middle Distal: B-middleFinger03.R
+    Right Middle Intermediate: B-middleFinger02.R
+    Right Middle Proximal: B-middleFinger01.R
+    Right Ring Distal: B-ringFinger03.R
+    Right Ring Intermediate: B-ringFinger02.R
+    Right Ring Proximal: B-ringFinger01.R
+    Right Thumb Distal: B-thumb03.R
+    Right Thumb Intermediate: B-thumb02.R
+    Right Thumb Proximal: B-thumb01.R
+    RightFoot: B-foot.R
+    RightHand: B-hand.R
+    RightLowerArm: B-forearm.R
+    RightLowerLeg: B-shin.R
+    RightShoulder: B-shoulder.R
+    RightToes: B-toe.R
+    RightUpperArm: B-upperArm.R
+    RightUpperLeg: B-thigh.R
+    Spine: B-spine
